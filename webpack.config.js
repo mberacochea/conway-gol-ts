@@ -29,7 +29,7 @@ module.exports = {
         new TypedocWebpackPlugin({
             module: "commonjs",
             target: "es5",
-            out: "docs/",
+            out: "docs/project/",
             name: "My project title"
         })
     ],
