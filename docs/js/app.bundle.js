@@ -1,4 +1,4 @@
-window["ConwayGoF"] =
+window["ConwayGoL"] =
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
